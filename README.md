@@ -2,7 +2,7 @@
   
 ## NxN Matrix Operations
 
-Matrix Operations inculding:  
+Matrix Operations including:  
 - Addition  
 - Subtraction  
 - Matrix Multiplication  
